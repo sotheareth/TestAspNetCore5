@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "SR3ZIv7gsrrp1F++/HX8Eq729vMo8A69DpFYv9WDsxI/cFA4BXcLkH1+z9vscLlCRWJfCY98LgNhM14/ll3+FA==",
+  "success": true,
+  "projectFilePath": "G:\\Moved\\EBanking\\TestAspNetCore5\\TestAspNetCore-Core\\TestAspNetCore-Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Reth\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.5\\microsoft.aspnetcore.http.features.5.0.5.nupkg.sha512",
+    "C:\\Users\\Reth\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\Reth\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512",
+    "C:\\Users\\Reth\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

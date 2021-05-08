@@ -1,0 +1,16 @@
+G:\EBanking\TestAspNetCore-Infrastructure\bin\Debug\netcoreapp3.1\TestAspNetCore-Infrastructure.deps.json
+G:\EBanking\TestAspNetCore-Infrastructure\bin\Debug\netcoreapp3.1\TestAspNetCore-Infrastructure.runtimeconfig.json
+G:\EBanking\TestAspNetCore-Infrastructure\bin\Debug\netcoreapp3.1\TestAspNetCore-Infrastructure.runtimeconfig.dev.json
+G:\EBanking\TestAspNetCore-Infrastructure\bin\Debug\netcoreapp3.1\TestAspNetCore-Infrastructure.dll
+G:\EBanking\TestAspNetCore-Infrastructure\bin\Debug\netcoreapp3.1\TestAspNetCore-Infrastructure.pdb
+G:\EBanking\TestAspNetCore-Infrastructure\bin\Debug\netcoreapp3.1\TestAspNetCore-Core.dll
+G:\EBanking\TestAspNetCore-Infrastructure\bin\Debug\netcoreapp3.1\TestAspNetCore-Core.pdb
+G:\EBanking\TestAspNetCore-Infrastructure\obj\Debug\netcoreapp3.1\TestAspNetCore-Infrastructure.csprojAssemblyReference.cache
+G:\EBanking\TestAspNetCore-Infrastructure\obj\Debug\netcoreapp3.1\TestAspNetCore-Infrastructure.AssemblyInfoInputs.cache
+G:\EBanking\TestAspNetCore-Infrastructure\obj\Debug\netcoreapp3.1\TestAspNetCore-Infrastructure.AssemblyInfo.cs
+G:\EBanking\TestAspNetCore-Infrastructure\obj\Debug\netcoreapp3.1\TestAspNetCore-Infrastructure.csproj.CoreCompileInputs.cache
+G:\EBanking\TestAspNetCore-Infrastructure\obj\Debug\netcoreapp3.1\TestAspNetCore-Infrastructure.csproj.CopyComplete
+G:\EBanking\TestAspNetCore-Infrastructure\obj\Debug\netcoreapp3.1\TestAspNetCore-Infrastructure.dll
+G:\EBanking\TestAspNetCore-Infrastructure\obj\Debug\netcoreapp3.1\TestAspNetCore-Infrastructure.pdb
+G:\EBanking\TestAspNetCore-Infrastructure\obj\Debug\netcoreapp3.1\TestAspNetCore-Infrastructure.genruntimeconfig.cache
+G:\EBanking\TestAspNetCore-Infrastructure\bin\Debug\netcoreapp3.1\Sql\getAllCustomer.sql

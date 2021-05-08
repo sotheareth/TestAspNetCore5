@@ -1,0 +1,9 @@
+G:\EBanking\TestAspNetCore-Core\bin\Debug\netcoreapp3.1\TestAspNetCore-Core.deps.json
+G:\EBanking\TestAspNetCore-Core\bin\Debug\netcoreapp3.1\TestAspNetCore-Core.dll
+G:\EBanking\TestAspNetCore-Core\bin\Debug\netcoreapp3.1\TestAspNetCore-Core.pdb
+G:\EBanking\TestAspNetCore-Core\obj\Debug\netcoreapp3.1\TestAspNetCore-Core.AssemblyInfoInputs.cache
+G:\EBanking\TestAspNetCore-Core\obj\Debug\netcoreapp3.1\TestAspNetCore-Core.AssemblyInfo.cs
+G:\EBanking\TestAspNetCore-Core\obj\Debug\netcoreapp3.1\TestAspNetCore-Core.csproj.CoreCompileInputs.cache
+G:\EBanking\TestAspNetCore-Core\obj\Debug\netcoreapp3.1\TestAspNetCore-Core.dll
+G:\EBanking\TestAspNetCore-Core\obj\Debug\netcoreapp3.1\TestAspNetCore-Core.pdb
+G:\EBanking\TestAspNetCore-Core\obj\Debug\netcoreapp3.1\TestAspNetCore-Core.csprojAssemblyReference.cache
